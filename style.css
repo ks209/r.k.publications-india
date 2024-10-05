@@ -9,9 +9,13 @@
 
 body {
     font-family: 'Roboto';
-    background-color: #f4f4f4;
+    background-color: #f9f9f3;
     color: #333;
     padding: 20px;
+}
+
+.img img{
+    mix-blend-mode: multiply;
 }
 
 header {
